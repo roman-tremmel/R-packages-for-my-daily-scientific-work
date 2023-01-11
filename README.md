@@ -52,8 +52,8 @@ My personal curated list of useful R packages and extensions for my work as a li
 ### machine learning
 
 - [caret](https://topepo.github.io/caret/) - toolset for classification and regression models
-- [caretEnsemble](https://cran.r-project.org/web/packages/caretEnsemble/vignettes/caretEnsemble-intro.html) - ensembles of caret models using also bootstrapping
-- [superlearner](https://cran.r-project.org/web/packages/SuperLearner/vignettes/Guide-to-SuperLearner.html) - tool with cross-validation to estimate the performance of multiple machine learning models
+- [caretEnsemble](https://cran.r-project.org/web/packages/caretEnsemble/vignettes/caretEnsemble-intro.html) - ensembles of caret models allows also to use bootstrapping
+- [superlearner](https://cran.r-project.org/web/packages/SuperLearner/vignettes/Guide-to-SuperLearner.html) - easily estimate the performance of multiple machine learning models using cross validation
 
 
 
