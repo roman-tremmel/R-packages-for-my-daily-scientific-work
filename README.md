@@ -1,7 +1,7 @@
 # R packages for my daily scientific work <!-- omit in toc -->
 
 
-My personal curated list of useful R packages and extensions for my work as a life science scientist.  
+My personal curated list of useful R packages and extensions for my work as a life science researcher with focus on (pharmaco)genetics, clinical studies, OMICS and shiny apps.  
 
 
 <hr>
