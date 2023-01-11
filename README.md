@@ -71,7 +71,7 @@ My personal curated list of useful R packages and extensions for my work as a li
 
 ## shiny
 
-*there are better lists as linked above, but I use these packages very often*
+*there are better lists as linked above, but I use following packages very often*
 
 - [shinydashboard](https://rstudio.github.io/shinydashboard/) - easy way to create dashboards
 - [shinydashboardPlus](https://rinterface.github.io/shinydashboardPlus/) - nice features beyond the original dashboard
