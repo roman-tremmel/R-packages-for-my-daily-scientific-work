@@ -19,7 +19,7 @@ My personal curated list of useful R packages and extensions for my work as a li
 
 ## workhorse
 
-*Packages I load in the beginning of every session*
+*Packages I load in the beginning of almost every session*
 
 - [tidyverse](https://www.tidyverse.org/) - bundel of useful packages
 - [janitor](https://cran.r-project.org/web/packages/janitor/index.html) - tool for cleaning and examin "dirty" data 
@@ -48,6 +48,8 @@ My personal curated list of useful R packages and extensions for my work as a li
 
 
 ## ggplot2
+
+*ggplot extension for further and easy customisation*
 
 - [ggpubr](https://rpkgs.datanovia.com/ggpubr) - easy-to-use functions for creating ‘ggplot2’- based publication ready plots including statistical add ons.
 - [ggsignif](https://cran.r-project.org/web/packages/ggsignif/vignettes/intro.html) - visualization of statistical differences
