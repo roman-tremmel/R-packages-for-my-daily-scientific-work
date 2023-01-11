@@ -14,7 +14,7 @@ My personal curated list of useful R packages and extensions for my work as a li
 - [statistics](#statistics)
   - [general](#general)
   - [genetics](#genetics)
-  - [machine learning](#machine learning)
+  - [machine learning](#machine-learning)
 - [ggplot2](#ggplot)
 - [shiny](#shiny)
 
