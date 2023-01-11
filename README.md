@@ -69,3 +69,11 @@ My personal curated list of useful R packages and extensions for my work as a li
 - [ggannotate](https://github.com/MattCowgill/ggannotate) - point-and-click tool to annotate plots in the last production step
 
 
+## shiny
+
+*there are better lists as linked above, but I use these packages very often*
+
+- [shinydashboard](https://rstudio.github.io/shinydashboard/) - easy way to create dashboards
+- [shinydashboardPlus](https://rinterface.github.io/shinydashboardPlus/) - nice features beyond the original dashboard
+- [shinyWidgets](https://github.com/dreamRs/shinyWidgets) - additional and nicer inputs
+- [shinyjs](https://deanattali.com/shinyjs/) - useful to integrate JavaScript in shiny code 
