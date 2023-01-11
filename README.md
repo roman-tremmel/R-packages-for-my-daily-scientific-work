@@ -10,21 +10,32 @@ My personal curated list of useful R packages and extensions for my work as a li
 
 <hr>
 
+- [workhorse](#workhorses)
 - [statistics](#statistics)
   - [general](#general)
   - [genetics](#genetics)  
 - [ggplot2](#ggplot)
 - [shiny](#shiny)
 
+## workhorse
+
+- [tidyverse](https://www.tidyverse.org/) - bundel of useful packages
+- [janitor](https://cran.r-project.org/web/packages/janitor/index.html) - tool for cleaning and examin "dirty" data 
+
+
 ## statistics
 
-*Science without pvalues is rarely not possible*
+*Science without pvalues is barly not possible*
 
 ### general
 
 -[rstatix](https://github.com/kassambara/rstatix) - (tidyverse) pipe-friendly framework for basic statistical tests
 
 ### genetics
+
+- [haplo.stats](https://cran.r-project.org/web/packages/haplo.stats/index.html) - analysis of haplotypes.
+- [SNPassoc](https://cran.r-project.org/web/packages/SNPassoc/index.html) - Useful for small genetic association studies
+- [SKAT](https://cran.r-project.org/web/packages/SKAT/index.html) - gene-based association tests and other burden tests
 
 
 ## ggplot2
