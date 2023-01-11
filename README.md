@@ -13,7 +13,8 @@ My personal curated list of useful R packages and extensions for my work as a li
 - [workhorse](#workhorses)
 - [statistics](#statistics)
   - [general](#general)
-  - [genetics](#genetics)  
+  - [genetics](#genetics)
+  - [machine learning](#machine learning)
 - [ggplot2](#ggplot)
 - [shiny](#shiny)
 
@@ -26,6 +27,7 @@ My personal curated list of useful R packages and extensions for my work as a li
 - [readxl](https://readxl.tidyverse.org/) - get easily and fastly data out of Excel into `R`
 - [glue](https://glue.tidyverse.org/) - enhanced string manipulation
 - [furrr](https://furrr.futureverse.org/) - `purrr`'s mapping functions but in parallel mode
+- [fst](https://www.fstpackage.org) - saving and loading data extremely fast
 
 
 ## statistics
@@ -38,6 +40,7 @@ My personal curated list of useful R packages and extensions for my work as a li
 - [gtsummary](https://www.danieldsjoberg.com/gtsummary/) - elegant and flexible way to create publication-ready analytical and summary tables
 - [pROC](https://cran.r-project.org/web/packages/pROC/pROC.pdf) - Tools for visualizing, smoothing and comparing ROC curves
 - [quantreg](https://cran.r-project.org/web/packages/quantreg/index.html) - quantile regression for non-parametric data
+- [coin](https://cran.r-project.org/web/packages/coin/index.html) - functions to transform data and a lot of tests 
 
 ### genetics
 
@@ -45,6 +48,13 @@ My personal curated list of useful R packages and extensions for my work as a li
 - [SNPassoc](https://cran.r-project.org/web/packages/SNPassoc/index.html) - Useful for small genetic association studies
 - [SKAT](https://cran.r-project.org/web/packages/SKAT/index.html) - gene-based association tests and other burden tests
 - [ggfastman](https://github.com/roman-tremmel/ggfastman) - plotting tons of pvalues using manhatten plots
+
+### machine learning
+
+- [caret](https://topepo.github.io/caret/) - toolset for classification and regression models
+- [caretEnsemble](https://cran.r-project.org/web/packages/caretEnsemble/vignettes/caretEnsemble-intro.html) - ensembles of caret models using also bootstrapping
+- [superlearner](https://cran.r-project.org/web/packages/SuperLearner/vignettes/Guide-to-SuperLearner.html) - tool with cross-validation to estimate the performance of multiple machine learning models
+
 
 
 ## ggplot2
