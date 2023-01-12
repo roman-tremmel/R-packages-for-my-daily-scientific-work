@@ -20,6 +20,8 @@ My personal curated list of useful R packages and extensions for my work as rese
 - [ggplot2](#ggplot)
 - [shiny](#shiny)
 - [others](#others)
+  - [R packages](#R-packages)
+  - [tools](#tools)
 
 ## workhorse
 
