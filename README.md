@@ -21,7 +21,7 @@ My personal curated list of useful R packages and extensions for my work as rese
 - [shiny](#shiny)
 - [others](#others)
   - [R packages](#R-packages)
-  - [cmd tools](#cmd-tools)
+  - [cmdline tools](#cmdline-tools)
 
 ## workhorse
 
@@ -94,6 +94,18 @@ My personal curated list of useful R packages and extensions for my work as rese
 - [clinPK](https://github.com/InsightRX/clinPK) - functions for clinical pharmacokinetics and clinical pharmacology
 
 
-### cmd tools
+### cmdline tools
 - [plink](https://zzz.bwh.harvard.edu/plink/) - whole genome association analysis toolset
 - [snptest](https://www.well.ox.ac.uk/~gav/snptest/) - genome-wide association analysis of SNPs
+- [regenie](https://rgcgithub.github.io/regenie/) - whole genome regression modelling of massive large GWAS
+- [vep](https://www.ensembl.org/info/docs/tools/vep/index.html) - genetic variant annotation including effects and functions
+- [SNpeff](http://pcingola.github.io/SnpEff/) - genomic variant annotations and functional effect prediction toolbox
+- [pypgx](https://github.com/sbslee/pypgx) - pharmacogenomics profiles from NGS & SNP array data
+- [aldy](https://github.com/0xTCG/aldy) - pharmacogenomics profiles from NGS data
+- [samtools](http://www.htslib.org/) - toolbox for high-throughput sequencing data
+- [openai](https://openai.com/) - API to access GPT-3
+- [celltypist](https://www.celltypist.org/) - automated cell type annotation for scRNA-seq
+- [salmon](https://salmon.readthedocs.io/en/latest/index.html) - transcript quantification from RNA-seq data
+- [gatk](https://gatk.broadinstitute.org/hc/en-us) - genome analysis toolkit
+- [conda](https://docs.conda.io/en/latest/) - environment management
+- [slurm](https://slurm.schedmd.com/documentation.html) - workload management 
