@@ -105,7 +105,8 @@ My personal curated list of useful R packages and extensions for my work as rese
 - [samtools](http://www.htslib.org/) - toolbox for high-throughput sequencing data
 - [openai](https://openai.com/) - API to access GPT-3
 - [celltypist](https://www.celltypist.org/) - automated cell type annotation for scRNA-seq
-- [salmon](https://salmon.readthedocs.io/en/latest/index.html) - transcript quantification from RNA-seq data
+- [salmon](https://salmon.readthedocs.io/en/latest/index.html) - transcript quantification from RNA-seq data3
+- [impute](https://imputationserver.sph.umich.edu/index.html) imputation server
 - [gatk](https://gatk.broadinstitute.org/hc/en-us) - genome analysis toolkit
 - [conda](https://docs.conda.io/en/latest/) - environment management
 - [slurm](https://slurm.schedmd.com/documentation.html) - workload management 
