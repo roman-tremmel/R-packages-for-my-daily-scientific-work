@@ -10,6 +10,8 @@ My personal curated list of useful R packages and extensions for my work as rese
 
 <hr>
 
+# Overview
+
 - [workhorse](#workhorses)
 - [statistics](#statistics)
   - [general](#general)
@@ -48,6 +50,7 @@ My personal curated list of useful R packages and extensions for my work as rese
 - [SNPassoc](https://cran.r-project.org/web/packages/SNPassoc/index.html) - Useful for small genetic association studies
 - [SKAT](https://cran.r-project.org/web/packages/SKAT/index.html) - gene-based association tests and other burden tests
 - [ggfastman](https://github.com/roman-tremmel/ggfastman) - plotting tons of pvalues using manhatten plots
+- [pathfindR](https://github.com/egeulgen/pathfindR) - pathway enrichment analysis via active subnetworks
 
 ### machine learning
 
@@ -63,7 +66,7 @@ My personal curated list of useful R packages and extensions for my work as rese
 
 - [ggpubr](https://rpkgs.datanovia.com/ggpubr) - easy-to-use functions for creating ‘ggplot2’- based publication ready plots including statistical add ons.
 - [ggsignif](https://cran.r-project.org/web/packages/ggsignif/vignettes/intro.html) - visualization of statistical differences
-- [ggbeeswarm](https://github.com/eclarke/ggbeeswarm) - Beeswarm plots aka scatter plots or violin/boxplot plots with points
+- [ggbeeswarm](https://github.com/eclarke/ggbeeswarm) - beeswarm plots aka scatter plots or violin/boxplot plots with points
 - [cowplot](https://cran.r-project.org/web/packages/cowplot/vignettes/introduction.html#:~:text=The%20cowplot%20package%20is%20a,or%20mix%20plots%20with%20images.) -creating publication-quality figures
 - [ggrepel](https://cran.r-project.org/web/packages/ggrepel/vignettes/ggrepel.html) - annotations without overlapp
 - [ggannotate](https://github.com/MattCowgill/ggannotate) - point-and-click tool to annotate plots in the last production step
