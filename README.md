@@ -82,9 +82,10 @@ My personal curated list of useful R packages and extensions for my work as rese
 - [shinydashboardPlus](https://rinterface.github.io/shinydashboardPlus/) - nice features beyond the original dashboard
 - [shinyWidgets](https://github.com/dreamRs/shinyWidgets) - additional and nicer inputs
 - [shinyjs](https://deanattali.com/shinyjs/) - useful to integrate JavaScript in shiny code 
+- [bslib](https://rstudio.github.io/bslib/) - customizing bootstrap themes for shiny  
 
 ## others
 
 *packages not fitting 100% in the categories above*
 
-- [clinPK](https://github.com/InsightRX/clinPK) - function for clinical pharmacokinetics and clinical pharmacology
+- [clinPK](https://github.com/InsightRX/clinPK) - functions for clinical pharmacokinetics and clinical pharmacology
