@@ -86,6 +86,11 @@ My personal curated list of useful R packages and extensions for my work as rese
 
 ## others
 
-*packages not fitting 100% in the categories above*
+*packages not fitting 100% in the categories above and other commandline tools*
 
+### R packages
 - [clinPK](https://github.com/InsightRX/clinPK) - functions for clinical pharmacokinetics and clinical pharmacology
+
+
+### tools
+- [plink](https://zzz.bwh.harvard.edu/plink/) - whole genome association analysis toolset
