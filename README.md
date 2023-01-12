@@ -21,7 +21,7 @@ My personal curated list of useful R packages and extensions for my work as rese
 - [shiny](#shiny)
 - [others](#others)
   - [R packages](#R-packages)
-  - [tools](#tools)
+  - [cmd tools](#cmd-tools)
 
 ## workhorse
 
@@ -94,5 +94,6 @@ My personal curated list of useful R packages and extensions for my work as rese
 - [clinPK](https://github.com/InsightRX/clinPK) - functions for clinical pharmacokinetics and clinical pharmacology
 
 
-### tools
+### cmd tools
 - [plink](https://zzz.bwh.harvard.edu/plink/) - whole genome association analysis toolset
+- [snptest](https://www.well.ox.ac.uk/~gav/snptest/) - genome-wide association analysis of SNPs
