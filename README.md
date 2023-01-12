@@ -15,7 +15,7 @@ My personal curated list of useful R packages and extensions for my work as rese
 - [workhorse](#workhorses)
 - [statistics](#statistics)
   - [general](#general)
-  - [genetics](#genetics)
+  - [genomics](#genomics)
   - [machine learning](#machine-learning)
 - [ggplot2](#ggplot)
 - [shiny](#shiny)
@@ -44,7 +44,7 @@ My personal curated list of useful R packages and extensions for my work as rese
 - [quantreg](https://cran.r-project.org/web/packages/quantreg/index.html) - quantile regression for non-parametric data
 - [coin](https://cran.r-project.org/web/packages/coin/index.html) - functions to transform data and a lot of tests 
 
-### genetics
+### genomics
 
 - [haplo.stats](https://cran.r-project.org/web/packages/haplo.stats/index.html) - analysis of haplotypes.
 - [SNPassoc](https://cran.r-project.org/web/packages/SNPassoc/index.html) - Useful for small genetic association studies
