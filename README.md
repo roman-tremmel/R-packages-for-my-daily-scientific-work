@@ -19,6 +19,7 @@ My personal curated list of useful R packages and extensions for my work as rese
   - [machine learning](#machine-learning)
 - [ggplot2](#ggplot)
 - [shiny](#shiny)
+- [others](#others)
 
 ## workhorse
 
@@ -70,7 +71,7 @@ My personal curated list of useful R packages and extensions for my work as rese
 - [cowplot](https://cran.r-project.org/web/packages/cowplot/vignettes/introduction.html#:~:text=The%20cowplot%20package%20is%20a,or%20mix%20plots%20with%20images.) -creating publication-quality figures
 - [ggrepel](https://cran.r-project.org/web/packages/ggrepel/vignettes/ggrepel.html) - annotations without overlapp
 - [ggannotate](https://github.com/MattCowgill/ggannotate) - point-and-click tool to annotate plots in the last production step
-- [plotly](https://plotly.com/r/) interactive plots
+- [plotly](https://plotly.com/r/) - interactive plots
 
 
 ## shiny
@@ -81,3 +82,9 @@ My personal curated list of useful R packages and extensions for my work as rese
 - [shinydashboardPlus](https://rinterface.github.io/shinydashboardPlus/) - nice features beyond the original dashboard
 - [shinyWidgets](https://github.com/dreamRs/shinyWidgets) - additional and nicer inputs
 - [shinyjs](https://deanattali.com/shinyjs/) - useful to integrate JavaScript in shiny code 
+
+## others
+
+*packages not fitting 100% in the categories above*
+
+- [clinPK](https://github.com/InsightRX/clinPK) - function for clinical pharmacokinetics and clinical pharmacology
