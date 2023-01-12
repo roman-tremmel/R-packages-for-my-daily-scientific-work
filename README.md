@@ -70,6 +70,7 @@ My personal curated list of useful R packages and extensions for my work as rese
 - [cowplot](https://cran.r-project.org/web/packages/cowplot/vignettes/introduction.html#:~:text=The%20cowplot%20package%20is%20a,or%20mix%20plots%20with%20images.) -creating publication-quality figures
 - [ggrepel](https://cran.r-project.org/web/packages/ggrepel/vignettes/ggrepel.html) - annotations without overlapp
 - [ggannotate](https://github.com/MattCowgill/ggannotate) - point-and-click tool to annotate plots in the last production step
+- [plotly](https://plotly.com/r/) interactive plots
 
 
 ## shiny
