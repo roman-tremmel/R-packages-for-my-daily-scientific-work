@@ -93,6 +93,7 @@ My personal curated list of useful R packages and extensions for my work as rese
 ### R packages
 - [clinPK](https://github.com/InsightRX/clinPK) - functions for clinical pharmacokinetics and clinical pharmacology
 - [valr](https://rnabioco.github.io/valr/) - compare and manipulate genome intervals
+- [gplots](https://cran.r-project.org/web/packages/gplots/index.html) - useful for heatmaps and venn diagrams
 
 
 ### cmdline tools
