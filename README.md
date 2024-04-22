@@ -45,7 +45,8 @@ My personal curated list of useful R packages and extensions for my work as rese
 - [gtsummary](https://www.danieldsjoberg.com/gtsummary/) - elegant and flexible way to create publication-ready analytical and summary tables
 - [pROC](https://cran.r-project.org/web/packages/pROC/pROC.pdf) - tools for visualizing, smoothing and comparing ROC curves
 - [quantreg](https://cran.r-project.org/web/packages/quantreg/index.html) - quantile regression for non-parametric data
-- [coin](https://cran.r-project.org/web/packages/coin/index.html) - functions to transform data and a lot of tests 
+- [coin](https://cran.r-project.org/web/packages/coin/index.html) - functions to transform data and a lot of tests
+- [breakerofchains](https://github.com/MilesMcBain/breakerofchains) - Run your chain until the cursor line. Add the addin by using a shortcut like 'Ctrl + shift + b'. 
 
 ### genomics
 
@@ -74,6 +75,7 @@ My personal curated list of useful R packages and extensions for my work as rese
 - [ggrepel](https://cran.r-project.org/web/packages/ggrepel/vignettes/ggrepel.html) - annotations without overlapp
 - [ggannotate](https://github.com/MattCowgill/ggannotate) - point-and-click tool to annotate plots in the last production step
 - [plotly](https://plotly.com/r/) - interactive plots
+- [ggtex](https://wilkelab.org/ggtext/) -  Add nice text, lables and boxes to your ggplots 
 
 
 ## shiny
@@ -112,4 +114,5 @@ My personal curated list of useful R packages and extensions for my work as rese
 - [impute](https://imputationserver.sph.umich.edu/index.html) imputation server
 - [gatk](https://gatk.broadinstitute.org/hc/en-us) - genome analysis toolkit
 - [conda](https://docs.conda.io/en/latest/) - environment management
-- [slurm](https://slurm.schedmd.com/documentation.html) - workload management 
+- [slurm](https://slurm.schedmd.com/documentation.html) - workload management
+- [nfcore](https://nf-co.re/) - Easy to use bfx analysis pipelines built using Nextflow
